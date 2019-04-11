@@ -22,6 +22,20 @@
 .App-link {
   color: #61dafb;
 }
+.bg-whitesmoke{
+  background-color:whitesmoke;
+}
+.image1 {
+  width: 40%;
+  height: 100%;
+  margin-top:10px;
+  margin-bottom:10px; 
+}
+
+.image2 {
+  width: 60%;
+}
+
 
 @keyframes App-logo-spin {
   from {
